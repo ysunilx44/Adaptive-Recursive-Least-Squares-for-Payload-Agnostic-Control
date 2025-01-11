@@ -1,1 +1,1 @@
-# Adaptive-Recursive-Least-Squares-for-Payload-Agnostic-Control
+# Adaptive Recursive Least Squares for Payload Agnostic Control
